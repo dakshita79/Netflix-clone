@@ -1,1 +1,1 @@
-# Netflix-clone
+# PROJECT DESCRIPTION :-  A Netfilx Clone typically refers to a web application or mobile application designed to mimic the functionality and user interface of the popular streaming service. The term "clone" implies that the application replicates key features and design elements of the original platform. Developing a netflix clone can serve as a learning exercise for developers, helping them understand various aspects of building a streaming service.
